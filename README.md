@@ -1,2 +1,2 @@
 # yybf
-My ultimate dream 
+Newbie in machine learning world
